@@ -1,0 +1,5 @@
+﻿  Final.cpp
+C:\Users\Andres\Desktop\Poker\Poker\Final.cpp(31,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Andres\Desktop\Poker\Poker\Final.cpp(76,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Andres\Desktop\Poker\Poker\Final.cpp(92,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Poker.vcxproj -> C:\Users\Andres\Desktop\Poker\x64\Debug\Poker.exe
